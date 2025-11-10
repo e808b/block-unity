@@ -1,4 +1,4 @@
-<!-- https://github.com/e808b/block-unity -->
+<!-- https://github.com/e808b/unity-block-breaker -->
 
 ## About
 
